@@ -1,8 +1,8 @@
-a = 10
-b = 20
-c = 18
-d = 10
+def main():
+    a = int(input("Informe o primeiro valor: "))
+    b = int(input("informe o segundo valor: "))
+    soma = a + b
 
-soma = (a + b) * c / 2
+    print("A soma de", a,"+", b,"é igual a", soma)
 
-print("A soma dos numeros é",  soma)
+main()
