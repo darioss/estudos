@@ -52,8 +52,6 @@ def indice(item, lista):
     indice da posicao em que item ocorre na lista.
     Caso item nao ocorra na lista a funcao retorna None
     '''
-    print("Vixe! Ainda nao fiz a funcao!")
-
     if item in lista:
         return lista.index(item)
     else:
