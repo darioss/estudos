@@ -1,5 +1,6 @@
 import re
 
+
 def main():
     assinaturaReferencia = le_assinatura()
     textos = le_textos()
@@ -7,8 +8,10 @@ def main():
     print ("O autor do texto %d está infectado com COH-PIAH" %(provavelCopia))
     teste_calcula_assinatura()
     
+    
 def le_assinatura():
-    '''A funcao le os valores dos tracos linguisticos do modelo e devolve uma assinatura a ser comparada com os textos fornecidos'''
+    # A funcao le os valores dos tracos linguisticos do modelo e devolve uma assinatura a ser 
+    # comparada com os textos fornecidos
     print("Bem-vindo ao detector automático de COH-PIAH.")
     print("Informe a assinatura típica de um aluno infectado:")
 
@@ -21,8 +24,9 @@ def le_assinatura():
 
     return [wal, ttr, hlr, sal, sac, pal]
 
+
 def le_textos():
-    '''A funcao le todos os textos a serem comparados e devolve uma lista contendo cada texto como um elemento'''
+    # A funcao le todos os textos a serem comparados e devolve uma lista contendo cada texto como um elemento
     i = 1
     textos = []
     texto = input("Digite o texto " + str(i) +" (aperte enter para sair):")
@@ -33,8 +37,9 @@ def le_textos():
 
     return textos
 
+
 def separa_sentencas(texto):
-    '''A funcao recebe um texto e devolve uma lista das sentencas dentro do texto'''
+    # A funcao recebe um texto e devolve uma lista das sentencas dentro do texto
     sentencas = re.split(r'[.!?]+', texto)
     if sentencas[-1] == '':
         del sentencas[-1]
