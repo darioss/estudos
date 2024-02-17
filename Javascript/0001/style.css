@@ -1,0 +1,75 @@
+/* Estilo para o título */
+h1 {
+	font-size: 24px;
+	margin-bottom: 20px;
+}
+
+/* Estilo para o corpo da página */
+body {
+	font-family: Arial, sans-serif;
+	text-align: center;
+	background-color: #f9f9f9;
+	padding: 20px;
+}
+
+/* Estilo geral para o formulário */
+#infoForm,
+#complementForm {
+	width: 25vw;
+	min-width: 360px;
+	margin: 0 auto;
+	padding: 2vw;
+	background-color: #f0f0f0;
+	border: 1px solid #ccc;
+	border-radius: 5px;
+	text-align: left;
+}
+
+#complementForm {
+	display: none;
+}
+
+/* Estilo para os rótulos dos campos de entrada */
+label {
+	display: block;
+	margin-bottom: 10px;
+	font-weight: bold;
+}
+
+/* Estilo para os campos de entrada */
+input[type="text"],
+input[type="number"],
+select {
+	width: 100%;
+	padding: 10px;
+	margin-bottom: 15px;
+	border: 1px solid #ccc;
+	border-radius: 5px;
+}
+
+/* Estilo para o botão de envio */
+input[type="submit"],
+button {
+	background-color: #007BFF;
+	color: #fff;
+	padding: 10px 20px;
+	border: none;
+	border-radius: 5px;
+	cursor: pointer;
+}
+
+/* Estilo para a mensagem */
+#mensagem {
+	margin: 20px auto;
+	padding: 10px;
+	background-color: #007BFF;
+	color: #fff;
+	border-radius: 5px;
+	display: none;
+	width: 25vw;
+	min-width: 360px;
+}
+
+p {
+	font-weight: bolder;
+}
