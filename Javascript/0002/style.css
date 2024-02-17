@@ -1,0 +1,255 @@
+/* Estilo para o título */
+h1 {
+	font-size: 42px;
+	margin-bottom: 20px;
+	color: #fff;
+	text-shadow: 1px 1px 2px black, 0 0 1em blue, 0 0 0.2em blue;
+}
+
+/* Estilo para o corpo da página */
+body {
+	font-family: Arial, Helvetica, sans-serif;
+	text-align: center;
+	background: url("./img/bg.jpg");
+	background-size: cover;
+	background-color: rgba(0, 0, 0, 0.7);
+	padding: 0;
+	margin: 0;
+}
+
+#mask {
+	display: block;
+	position: fixed;
+	top: 0;
+	right: 0;
+	left: 0;
+	bottom: 0;
+	background-color: rgba(0, 0, 0, 0.7);
+	padding: 0;
+	margin: 0;
+	z-index: -1;
+}
+
+.container {
+	display: block;
+	margin: 0 auto;
+	padding: 20px;
+}
+
+/* Estilo geral para o formulário */
+#selectYourBackDestiny,
+#selectYourFrontDestiny,
+#selectYourDestiny,
+#vueCarrier,
+#reactCarrier,
+#csharpCarrier,
+#javaCarrier,
+#questions{
+	width: 25vw;
+	min-width: 360px;
+	margin: 0 auto;
+	padding: 2vw;
+	background-color: #f0f0f0;
+	box-shadow: 1px 1px 1000px 20px blue;
+    border: transparent;
+	border-radius: 5px;
+	text-align: left;
+	text-align: center;
+}
+
+#selectYourBackDestiny,
+#selectYourFrontDestiny {
+	display: none;
+}
+
+/* Estilo para os rótulos dos campos de entrada */
+label {
+	display: block;
+	margin-bottom: 10px;
+	font-weight: bold;
+}
+
+/* Estilo para os campos de entrada */
+input[type="text"],
+input[type="number"],
+select {
+	width: 100%;
+	padding: 10px;
+	margin-bottom: 15px;
+	border: 1px solid #ccc;
+	border-radius: 5px;
+}
+
+/* Estilo para o botão de envio */
+input[type="submit"],
+button {
+	background-color: #007BFF;
+	color: #fff;
+	padding: 10px 20px;
+	padding-top:120px;
+	border: none;
+	border-bottom:10px transparent solid;
+	border-radius: 5px;
+	cursor: pointer;
+	width: 150px;
+	height:150px;
+	background-size: cover;
+    font-size: 16px;
+    font-weight: bolder;
+	text-shadow: 1px 1px 2px black, 0 0 1em blue, 0 0 0.2em blue;
+}
+
+.finishImagem {
+	border:#fff;
+	width:80%;
+	height: auto;
+} 
+
+.fail {
+	box-shadow: 0 0 1000px 100px red;
+	opacity: 0.7;
+}
+
+.success {
+	box-shadow: 0 0 1000px 100px darkorange;
+	opacity: 0.8;
+}
+
+#back,
+.continueBack {
+	background-image: url("./img/backend.png");
+	background-size: cover;
+}
+
+#front,
+.continueFront {
+	background-image: url("./img/frontend.png");
+	background-size: cover;
+}
+
+.goTofullStack {
+	background-image: url("./img/fullstack.jpg");
+	background-size: cover;
+}
+
+#Vue {
+	background-image: url("./img/vue.png");
+	background-size: cover;
+}
+
+#Java {
+	background-image: url("./img/java.png");
+	background-size: cover;
+}
+
+#CSharp {
+	background-image: url("./img/csharp.png");
+	background-size: cover;
+}
+
+#React {
+	background-image: url("./img/react.png");
+	background-size: cover;
+}
+
+.continueBack,
+.continueFront,
+.goTofullStack {
+	padding-top:20px;
+}
+
+.containerButtons{
+	text-align: center;
+}
+
+#front:hover,
+#back:hover,
+#Vue:hover,
+#React:hover,
+#Java:hover,
+#CSharp:hover,
+.continueBack:hover,
+.continueFront:hover,
+.goTofullStack:hover {
+		opacity: 0.8;
+		color: darkorange;
+		border-bottom:10px red solid;
+}
+
+#attemptResponse,
+#successRetry,
+#failRetry,
+#scape {
+	padding-top: 20px;
+    height: 60px;
+}
+#attemptResponse:hover,
+#successRetry:hover,
+#failRetry:hover {
+	color: darkorange;
+	border-bottom:10px red solid;
+}
+
+#successRetry,
+#failRetry,
+#scape {
+	position: relative;
+    bottom: 36px;
+}
+
+#scape {
+	background: red;
+}
+
+#scape:hover {
+	color: darkorange;
+	border-bottom:10px white solid;
+}
+
+#vueCarrier,
+#reactCarrier,
+#csharpCarrier,
+#javaCarrier {
+	display: none;
+	text-align: left;
+}
+
+#questions {
+	display:none;
+}
+
+p {
+	font-weight: bolder;
+	margin-top: 0;
+}
+
+#counter {
+	color: darkorange;
+	font-weight: bolder;
+	font-size: 2em;
+}
+
+
+@media only screen and (max-width: 768px){
+	#selectYourBackDestiny,
+	#selectYourFrontDestiny,
+	#selectYourDestiny,
+	#vueCarrier,
+	#reactCarrier,
+	#csharpCarrier,
+	#javaCarrier,
+	#questions{
+		box-sizing: border-box;
+		padding: 3vh 4vh 4vh 4vh;
+	}
+
+	.container {
+		box-sizing: border-box;
+		padding: 20px 0;
+	}
+
+	input[type="submit"],
+	button {
+		background-position: center;
+	}
+}

@@ -1,0 +1,161 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta name="viewport" content="width=device-width, user-scalable=yes, initial-scale=1.0, maximum-scale=10, minimum-scale=1.0">
+    <link href="style.css" rel="stylesheet"/>
+  </head>
+  <body>
+    <div id="mask"></div>
+    <section class="container">
+      <h1>Programming to Survive</h1>
+      
+      <!-- Form for carrier select-->
+      <form id="selectYourDestiny">
+        <p id="labelPrefers"></p>
+        <input type="submit" id="front" value="Frontend"/>
+        <input type="submit" id="back" value="Backend"/>
+      </form>
+      
+      <!-- Form for frontend technology select-->
+      <form id="selectYourFrontDestiny">
+        <p id="labelFrontTech"></p>
+        <input type="submit" id="Vue" value="Vue.js"/>
+        <input type="submit" id="React" value="React.js"/>
+      </form>
+
+      <!-- Form for backend language select-->
+      <form id="selectYourBackDestiny">
+        <p id="labelBackLanguages"></p>
+        <input type="submit" id="Java" value="Java"/>
+        <input type="submit" id="CSharp" value="CSharp"/>
+      </form>
+
+      <div id="vueCarrier">
+        <h2 id="getStartVue"></h2>
+        <p>HTML</p>
+        <code>
+            &lt;div id="app"&gt;<br/>
+            &nbsp;&nbsp;&nbsp;&nbsp;{{ message }}<br/>
+            &lt;/div&gt  
+        </code>
+        <br/><br/>
+        <p>Javascript</p>
+        <code>       
+            new Vue({<br/>
+              &nbsp;&nbsp;&nbsp;&nbsp;el: '#app',<br/>
+              &nbsp;&nbsp;&nbsp;&nbsp;data: {<br/>
+                &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;message: 'Hello Vue.js!'<br/>
+                &nbsp;&nbsp;&nbsp;&nbsp;}<br/>
+            })<br/>
+          </code>
+          <br/>
+          <form class="containerButtons">
+            <input type="submit" class="continueFront" value="Stay Front"/>
+            <input type="submit" class="goTofullStack" value="FullStack"/>
+          </form>
+      </div>
+
+      <div id="reactCarrier">
+        <h2 id="getStartReact"></h2>
+        <p>HTML</p>
+        <code>
+          &lt;div id="root"&gt;
+            <br/>
+          &lt;/div&gt;
+        </code>
+        <br/><br/>
+        <p>Javascript</p>
+        <code>       
+          const root = ReactDOM.createRoot(document.getElementById('root'));<br/>
+          root.render(&lt;h1&gt;Hello, world!&lt;/h1&gt;);
+          <br/>
+          </code>
+          <br/>
+          <form class="containerButtons">
+            <input type="submit" class="continueFront" value="Stay Front"/>
+            <input type="submit" class="goTofullStack" value="FullStack"/>
+          </form>
+      </div>
+
+      <div id="csharpCarrier">
+        <h2 id="getStartCsharp"></h2>
+        <p>C#</p>
+        <code>
+          class HelloWorld<br/>
+          {<br/>
+          &nbsp;&nbsp;&nbsp;&nbsp;static void Main()<br/>
+          &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;{<br/>
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;System.Console.WriteLine("Hello, World!");<br/>
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;}<br/>
+          }<br/>
+        </code>
+        <br/>
+        <form class="containerButtons">
+          <input type="submit" class="continueBack" value="Stay Back"/>
+          <input type="submit" class="goTofullStack" value="FullStack"/>
+        </form>
+      </div>
+
+      <div id="javaCarrier">
+        <h2 id="getStartJava"></h2>
+        <p>Java</p>
+        <code>
+          class HelloWorld {<br/>
+          &nbsp;&nbsp;&nbsp;&nbsp;static public void main( String args[] ) {<br/>
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;System.out.println( "Hello World!" );<br/>
+          &nbsp;&nbsp;&nbsp;&nbsp;}<br/>
+          }
+        </code>
+        <br/>
+        <form class="containerButtons">
+          <input type="submit" class="continueBack" value="Stay Back"/>
+          <input type="submit" class="goTofullStack" value="FullStack"/>
+        </form>
+      </div>
+
+      <div id="questions">
+        <h2 id="labelQuestions"></h2>
+        <form id="technologies" class="technologies">
+          <label id="labelForLanguages" for="languages">Which the correct matches - Attempt <span id="counter">1/3</span></label>
+          <select id="languages" required>
+            <option></option>
+            <option>Javascript</option>
+            <option>Typescript</option>
+            <option>Ruby</option>
+            <option>PHP</option>
+            <option>Java</option>
+            <option>Go</option>
+            <option>Kotlin</option>
+            <option>Python</option>
+            <option>C#</option>
+          </select>
+          
+          <select id="framework" required>
+            <option></option>
+            <option>Angular</option>
+            <option>Laravel</option>
+            <option>Play</option>
+            <option>Backbone</option>
+            <option>Rails</option>
+            <option>Gin</option>
+            <option>Javalin</option>
+            <option>Flesk</option>
+            <option>Django</option>
+            <option>Entity</option>
+          </select>
+
+          <select id="porpose" required>
+            <option></option>
+            <option>Web</option>
+            <option>Mobile</option>
+            <option>Multi Porpose</option>
+          </select>
+          <input  id="attemptResponse" type="submit" value="Enviar"/>
+        </form>
+      </div>
+
+    </section>
+  <div id="msg"></div>
+  <script src="main.js"></script>
+  </body>
+</html>
