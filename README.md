@@ -1,2 +1,2 @@
 # Estudos
-Estudos de linguagens e testes
+Estudos de linguagens e testes.
