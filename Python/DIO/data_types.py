@@ -1,0 +1,5 @@
+print(1+3)
+print(100000+0.5)
+print(True)
+print(False)
+print("Testing data types")
