@@ -1,0 +1,11 @@
+C:\Users\dario.silva\Documents\repositorios\Estudo\SistemaDeNotas\bin\Debug\netcoreapp2.1\SistemaDeNotas.deps.json
+C:\Users\dario.silva\Documents\repositorios\Estudo\SistemaDeNotas\bin\Debug\netcoreapp2.1\SistemaDeNotas.runtimeconfig.json
+C:\Users\dario.silva\Documents\repositorios\Estudo\SistemaDeNotas\bin\Debug\netcoreapp2.1\SistemaDeNotas.runtimeconfig.dev.json
+C:\Users\dario.silva\Documents\repositorios\Estudo\SistemaDeNotas\bin\Debug\netcoreapp2.1\SistemaDeNotas.dll
+C:\Users\dario.silva\Documents\repositorios\Estudo\SistemaDeNotas\bin\Debug\netcoreapp2.1\SistemaDeNotas.pdb
+C:\Users\dario.silva\Documents\repositorios\Estudo\SistemaDeNotas\obj\Debug\netcoreapp2.1\SistemaDeNotas.csprojAssemblyReference.cache
+C:\Users\dario.silva\Documents\repositorios\Estudo\SistemaDeNotas\obj\Debug\netcoreapp2.1\SistemaDeNotas.csproj.CoreCompileInputs.cache
+C:\Users\dario.silva\Documents\repositorios\Estudo\SistemaDeNotas\obj\Debug\netcoreapp2.1\SistemaDeNotas.AssemblyInfoInputs.cache
+C:\Users\dario.silva\Documents\repositorios\Estudo\SistemaDeNotas\obj\Debug\netcoreapp2.1\SistemaDeNotas.AssemblyInfo.cs
+C:\Users\dario.silva\Documents\repositorios\Estudo\SistemaDeNotas\obj\Debug\netcoreapp2.1\SistemaDeNotas.dll
+C:\Users\dario.silva\Documents\repositorios\Estudo\SistemaDeNotas\obj\Debug\netcoreapp2.1\SistemaDeNotas.pdb
