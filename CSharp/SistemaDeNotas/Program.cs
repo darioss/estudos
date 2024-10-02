@@ -20,8 +20,12 @@ namespace SistemaDeNotas
             int[] notasEstudante = new int[10];
             string letraNota ="";
             decimal mediaAluno;
+            decimal notasProvas = 0;
+            int creditosExtra = 0;
+            int pontos = 0;
 
-            Console.WriteLine("Student\t\tGrade");
+            Console.WriteLine("Student\t\tExamScore\tOverall\t\tGrade\t\tExtra Credit");
+            Console.WriteLine("----------------------------------------------------------------------------");
             foreach (var aluno in alunos)
             {
                 if (aluno == "Sophia")
@@ -54,8 +58,7 @@ namespace SistemaDeNotas
                 {
                     mediaAluno = (decimal)alunoCorrente / notasEstudante.Length;
                 }
-
-
+                
                 if(mediaAluno >= 97)
                 {
                     letraNota = "A+";
@@ -109,9 +112,30 @@ namespace SistemaDeNotas
                     letraNota = "F";
                 }
 
-                Console.WriteLine($"{aluno}:\t\t {mediaAluno}\t{letraNota}");
+                //Define a média somente nas provas
+                if(notasEstudante.Length >= currentAssignments)
+                {
+                    for(int i = 0; i < 5; i++)
+                    {
+                        notasProvas += notasEstudante[i];
+                    }
+                }
+                else
+                {
+                    for(int i = 0; i < notasEstudante.Length; i++)
+                    {
+                        notasProvas += notasEstudante[i];
+                    }
+                }
 
+                notasProvas = notasProvas/currentAssignments;
+
+
+                Console.WriteLine($"{aluno}:\t\t{notasProvas} \t\t {mediaAluno}\t\t{letraNota}\t\t{creditosExtra} ({pontos} pts)");
+                
+                //Reseta as variáveis antes da próxima iteração
                 alunoCorrente = 0;
+                notasProvas = 0;
 
             }
 
