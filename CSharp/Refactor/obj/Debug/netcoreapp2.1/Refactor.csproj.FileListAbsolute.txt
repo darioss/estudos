@@ -1,0 +1,11 @@
+C:\Users\dario.silva\Documents\repositorios\Estudo\Refactor\obj\Debug\netcoreapp2.1\Refactor.csprojAssemblyReference.cache
+C:\Users\dario.silva\Documents\repositorios\Estudo\Refactor\obj\Debug\netcoreapp2.1\Refactor.csproj.CoreCompileInputs.cache
+C:\Users\dario.silva\Documents\repositorios\Estudo\Refactor\obj\Debug\netcoreapp2.1\Refactor.AssemblyInfoInputs.cache
+C:\Users\dario.silva\Documents\repositorios\Estudo\Refactor\obj\Debug\netcoreapp2.1\Refactor.AssemblyInfo.cs
+C:\Users\dario.silva\Documents\repositorios\Estudo\Refactor\bin\Debug\netcoreapp2.1\Refactor.deps.json
+C:\Users\dario.silva\Documents\repositorios\Estudo\Refactor\bin\Debug\netcoreapp2.1\Refactor.runtimeconfig.json
+C:\Users\dario.silva\Documents\repositorios\Estudo\Refactor\bin\Debug\netcoreapp2.1\Refactor.runtimeconfig.dev.json
+C:\Users\dario.silva\Documents\repositorios\Estudo\Refactor\bin\Debug\netcoreapp2.1\Refactor.dll
+C:\Users\dario.silva\Documents\repositorios\Estudo\Refactor\bin\Debug\netcoreapp2.1\Refactor.pdb
+C:\Users\dario.silva\Documents\repositorios\Estudo\Refactor\obj\Debug\netcoreapp2.1\Refactor.dll
+C:\Users\dario.silva\Documents\repositorios\Estudo\Refactor\obj\Debug\netcoreapp2.1\Refactor.pdb
