@@ -1,0 +1,11 @@
+C:\Users\dario.silva\Documents\repositorios\Estudo\battleHero\obj\Debug\netcoreapp2.1\battleHero.csprojAssemblyReference.cache
+C:\Users\dario.silva\Documents\repositorios\Estudo\battleHero\obj\Debug\netcoreapp2.1\battleHero.csproj.CoreCompileInputs.cache
+C:\Users\dario.silva\Documents\repositorios\Estudo\battleHero\obj\Debug\netcoreapp2.1\battleHero.AssemblyInfoInputs.cache
+C:\Users\dario.silva\Documents\repositorios\Estudo\battleHero\obj\Debug\netcoreapp2.1\battleHero.AssemblyInfo.cs
+C:\Users\dario.silva\Documents\repositorios\Estudo\battleHero\bin\Debug\netcoreapp2.1\battleHero.deps.json
+C:\Users\dario.silva\Documents\repositorios\Estudo\battleHero\bin\Debug\netcoreapp2.1\battleHero.runtimeconfig.json
+C:\Users\dario.silva\Documents\repositorios\Estudo\battleHero\bin\Debug\netcoreapp2.1\battleHero.runtimeconfig.dev.json
+C:\Users\dario.silva\Documents\repositorios\Estudo\battleHero\bin\Debug\netcoreapp2.1\battleHero.dll
+C:\Users\dario.silva\Documents\repositorios\Estudo\battleHero\bin\Debug\netcoreapp2.1\battleHero.pdb
+C:\Users\dario.silva\Documents\repositorios\Estudo\battleHero\obj\Debug\netcoreapp2.1\battleHero.dll
+C:\Users\dario.silva\Documents\repositorios\Estudo\battleHero\obj\Debug\netcoreapp2.1\battleHero.pdb
