@@ -1,0 +1,11 @@
+C:\Users\dario.silva\Documents\repositorios\Estudo\TratamentodeExcecao\bin\Debug\netcoreapp2.1\TratamentodeExcecao.deps.json
+C:\Users\dario.silva\Documents\repositorios\Estudo\TratamentodeExcecao\bin\Debug\netcoreapp2.1\TratamentodeExcecao.runtimeconfig.json
+C:\Users\dario.silva\Documents\repositorios\Estudo\TratamentodeExcecao\bin\Debug\netcoreapp2.1\TratamentodeExcecao.runtimeconfig.dev.json
+C:\Users\dario.silva\Documents\repositorios\Estudo\TratamentodeExcecao\bin\Debug\netcoreapp2.1\TratamentodeExcecao.dll
+C:\Users\dario.silva\Documents\repositorios\Estudo\TratamentodeExcecao\bin\Debug\netcoreapp2.1\TratamentodeExcecao.pdb
+C:\Users\dario.silva\Documents\repositorios\Estudo\TratamentodeExcecao\obj\Debug\netcoreapp2.1\TratamentodeExcecao.csprojAssemblyReference.cache
+C:\Users\dario.silva\Documents\repositorios\Estudo\TratamentodeExcecao\obj\Debug\netcoreapp2.1\TratamentodeExcecao.csproj.CoreCompileInputs.cache
+C:\Users\dario.silva\Documents\repositorios\Estudo\TratamentodeExcecao\obj\Debug\netcoreapp2.1\TratamentodeExcecao.AssemblyInfoInputs.cache
+C:\Users\dario.silva\Documents\repositorios\Estudo\TratamentodeExcecao\obj\Debug\netcoreapp2.1\TratamentodeExcecao.AssemblyInfo.cs
+C:\Users\dario.silva\Documents\repositorios\Estudo\TratamentodeExcecao\obj\Debug\netcoreapp2.1\TratamentodeExcecao.dll
+C:\Users\dario.silva\Documents\repositorios\Estudo\TratamentodeExcecao\obj\Debug\netcoreapp2.1\TratamentodeExcecao.pdb
