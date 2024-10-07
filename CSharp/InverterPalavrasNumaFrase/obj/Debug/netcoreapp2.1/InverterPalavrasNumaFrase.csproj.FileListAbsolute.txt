@@ -1,0 +1,11 @@
+C:\Users\dario.silva\Documents\repositorios\Estudo\InverterPalavrasNumaFrase\bin\Debug\netcoreapp2.1\InverterPalavrasNumaFrase.deps.json
+C:\Users\dario.silva\Documents\repositorios\Estudo\InverterPalavrasNumaFrase\bin\Debug\netcoreapp2.1\InverterPalavrasNumaFrase.runtimeconfig.json
+C:\Users\dario.silva\Documents\repositorios\Estudo\InverterPalavrasNumaFrase\bin\Debug\netcoreapp2.1\InverterPalavrasNumaFrase.runtimeconfig.dev.json
+C:\Users\dario.silva\Documents\repositorios\Estudo\InverterPalavrasNumaFrase\bin\Debug\netcoreapp2.1\InverterPalavrasNumaFrase.dll
+C:\Users\dario.silva\Documents\repositorios\Estudo\InverterPalavrasNumaFrase\bin\Debug\netcoreapp2.1\InverterPalavrasNumaFrase.pdb
+C:\Users\dario.silva\Documents\repositorios\Estudo\InverterPalavrasNumaFrase\obj\Debug\netcoreapp2.1\InverterPalavrasNumaFrase.csprojAssemblyReference.cache
+C:\Users\dario.silva\Documents\repositorios\Estudo\InverterPalavrasNumaFrase\obj\Debug\netcoreapp2.1\InverterPalavrasNumaFrase.csproj.CoreCompileInputs.cache
+C:\Users\dario.silva\Documents\repositorios\Estudo\InverterPalavrasNumaFrase\obj\Debug\netcoreapp2.1\InverterPalavrasNumaFrase.AssemblyInfoInputs.cache
+C:\Users\dario.silva\Documents\repositorios\Estudo\InverterPalavrasNumaFrase\obj\Debug\netcoreapp2.1\InverterPalavrasNumaFrase.AssemblyInfo.cs
+C:\Users\dario.silva\Documents\repositorios\Estudo\InverterPalavrasNumaFrase\obj\Debug\netcoreapp2.1\InverterPalavrasNumaFrase.dll
+C:\Users\dario.silva\Documents\repositorios\Estudo\InverterPalavrasNumaFrase\obj\Debug\netcoreapp2.1\InverterPalavrasNumaFrase.pdb
