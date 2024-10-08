@@ -1,0 +1,11 @@
+C:\Users\dario.silva\Documents\repositorios\Estudo\Algoritmos\bin\Debug\netcoreapp2.1\Algoritmos.deps.json
+C:\Users\dario.silva\Documents\repositorios\Estudo\Algoritmos\bin\Debug\netcoreapp2.1\Algoritmos.runtimeconfig.json
+C:\Users\dario.silva\Documents\repositorios\Estudo\Algoritmos\bin\Debug\netcoreapp2.1\Algoritmos.runtimeconfig.dev.json
+C:\Users\dario.silva\Documents\repositorios\Estudo\Algoritmos\bin\Debug\netcoreapp2.1\Algoritmos.dll
+C:\Users\dario.silva\Documents\repositorios\Estudo\Algoritmos\bin\Debug\netcoreapp2.1\Algoritmos.pdb
+C:\Users\dario.silva\Documents\repositorios\Estudo\Algoritmos\obj\Debug\netcoreapp2.1\Algoritmos.csprojAssemblyReference.cache
+C:\Users\dario.silva\Documents\repositorios\Estudo\Algoritmos\obj\Debug\netcoreapp2.1\Algoritmos.csproj.CoreCompileInputs.cache
+C:\Users\dario.silva\Documents\repositorios\Estudo\Algoritmos\obj\Debug\netcoreapp2.1\Algoritmos.AssemblyInfoInputs.cache
+C:\Users\dario.silva\Documents\repositorios\Estudo\Algoritmos\obj\Debug\netcoreapp2.1\Algoritmos.AssemblyInfo.cs
+C:\Users\dario.silva\Documents\repositorios\Estudo\Algoritmos\obj\Debug\netcoreapp2.1\Algoritmos.dll
+C:\Users\dario.silva\Documents\repositorios\Estudo\Algoritmos\obj\Debug\netcoreapp2.1\Algoritmos.pdb

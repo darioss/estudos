@@ -1,0 +1,11 @@
+C:\Users\dario.silva\Documents\repositorios\Estudo\ErrosDePadrao\obj\Debug\netcoreapp2.1\ErrosDePadrao.csprojAssemblyReference.cache
+C:\Users\dario.silva\Documents\repositorios\Estudo\ErrosDePadrao\obj\Debug\netcoreapp2.1\ErrosDePadrao.csproj.CoreCompileInputs.cache
+C:\Users\dario.silva\Documents\repositorios\Estudo\ErrosDePadrao\obj\Debug\netcoreapp2.1\ErrosDePadrao.AssemblyInfoInputs.cache
+C:\Users\dario.silva\Documents\repositorios\Estudo\ErrosDePadrao\obj\Debug\netcoreapp2.1\ErrosDePadrao.AssemblyInfo.cs
+C:\Users\dario.silva\Documents\repositorios\Estudo\ErrosDePadrao\bin\Debug\netcoreapp2.1\ErrosDePadrao.deps.json
+C:\Users\dario.silva\Documents\repositorios\Estudo\ErrosDePadrao\bin\Debug\netcoreapp2.1\ErrosDePadrao.runtimeconfig.json
+C:\Users\dario.silva\Documents\repositorios\Estudo\ErrosDePadrao\bin\Debug\netcoreapp2.1\ErrosDePadrao.runtimeconfig.dev.json
+C:\Users\dario.silva\Documents\repositorios\Estudo\ErrosDePadrao\bin\Debug\netcoreapp2.1\ErrosDePadrao.dll
+C:\Users\dario.silva\Documents\repositorios\Estudo\ErrosDePadrao\bin\Debug\netcoreapp2.1\ErrosDePadrao.pdb
+C:\Users\dario.silva\Documents\repositorios\Estudo\ErrosDePadrao\obj\Debug\netcoreapp2.1\ErrosDePadrao.dll
+C:\Users\dario.silva\Documents\repositorios\Estudo\ErrosDePadrao\obj\Debug\netcoreapp2.1\ErrosDePadrao.pdb
